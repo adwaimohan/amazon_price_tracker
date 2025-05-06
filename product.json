@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Iphone 15",
+        "url":"https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY?pd_rd_w=u0YS7&content-id=amzn1.sym.75e9542c-446d-4d82-b2e9-00c8602c2405&pf_rd_p=75e9542c-446d-4d82-b2e9-00c8602c2405&pf_rd_r=QZ3MB86PGGXS9YEH9F6R&pd_rd_wg=reulO&pd_rd_r=70260eaa-de79-4b8a-94cb-fba8dcb46555&pd_rd_i=B0CHX1W1XY&ref_=pd_hp_d_btf_unk_B0CHX1W1XY",
+        "desired_price": 30000
+
+    },
+    {
+        "name":"Samsung Galaxy M35",
+        "url":"https://www.amazon.in/Samsung-Thunder-Storage-Corning-Gorilla/dp/B0D7Z8CJP8?pd_rd_w=u0YS7&content-id=amzn1.sym.75e9542c-446d-4d82-b2e9-00c8602c2405&pf_rd_p=75e9542c-446d-4d82-b2e9-00c8602c2405&pf_rd_r=QZ3MB86PGGXS9YEH9F6R&pd_rd_wg=reulO&pd_rd_r=70260eaa-de79-4b8a-94cb-fba8dcb46555&pd_rd_i=B0D7Z8CJP8&ref_=pd_hp_d_btf_unk_B0D7Z8CJP8",
+        "desired_price":15000
+    }
+]
